@@ -6,21 +6,21 @@
 
 > LogiQ AI — your smart assistant for X, Y, Z. Built with speed, privacy, and delightful UX in mind.
 ## LogiQ AI ScreenShots!
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 11 46 PM" src="https://github.com/user-attachments/assets/58c7a522-c1bf-441a-96ae-0e783c9f1bbe" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 35 PM" src="https://github.com/user-attachments/assets/b394b19f-85f8-4e7b-9fba-4d52b0ea9c55" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 38 PM" src="https://github.com/user-attachments/assets/d31bd925-05a2-4687-97f4-6841abdcac65" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 42 PM" src="https://github.com/user-attachments/assets/b5a424d5-c6ba-4a98-96df-32852fb44681" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 49 PM" src="https://github.com/user-attachments/assets/e1c01d22-49c0-45a1-a747-dcbad56359ff" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 06 PM" src="https://github.com/user-attachments/assets/e84be833-d679-45e5-b6d2-70d9cea16a8d" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 14 PM" src="https://github.com/user-attachments/assets/a61cb4a5-a0d9-439a-a2c6-558a77d393a7" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 21 PM" src="https://github.com/user-attachments/assets/5de1cd80-9b22-403b-8d14-d881830de957" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 28 PM" src="https://github.com/user-attachments/assets/59f4347a-82a5-47bb-a417-b3e26df11b97" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 39 PM" src="https://github.com/user-attachments/assets/6e0ae628-8c6a-4d06-be7c-46a7f7f3338f" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 56 PM" src="https://github.com/user-attachments/assets/4497b633-4121-4f78-9258-2ebb4e69c6c2" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 03 PM" src="https://github.com/user-attachments/assets/91918967-a84b-488e-abe4-ab4a9c68e581" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 12 PM" src="https://github.com/user-attachments/assets/eac7e8a8-c9de-400a-8e9f-e33ebbf2cd4e" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 21 PM" src="https://github.com/user-attachments/assets/7f17b17e-c5b9-4d36-8c82-5f55c03e0fc8" />
-<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 33 PM" src="https://github.com/user-attachments/assets/29d5dbf2-dee2-4094-bae7-dcc4ed895998" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 11 46 PM" src="https://github.com/user-attachments/assets/9c04de6d-d1d2-48f6-bc7a-d35d4344f540" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 35 PM" src="https://github.com/user-attachments/assets/e181240a-017f-4773-b06e-cf5f8b35547b" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 49 PM" src="https://github.com/user-attachments/assets/65dc4d42-d151-4c6f-aedc-ee85d90f0a77" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 06 PM" src="https://github.com/user-attachments/assets/a6a7a639-0702-4593-930b-5773f1828380" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 14 PM" src="https://github.com/user-attachments/assets/2db54fb3-f8e5-4645-8b70-b91dd82854df" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 21 PM" src="https://github.com/user-attachments/assets/69e36b7d-4473-443c-872c-5cadbf4ed5e3" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 28 PM" src="https://github.com/user-attachments/assets/9dd1e4f0-723e-4a46-8a7b-5dc7fe657d93" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 39 PM" src="https://github.com/user-attachments/assets/f0746e6b-bea1-4682-baea-f34a7f4fb63f" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 15 56 PM" src="https://github.com/user-attachments/assets/b3a5498e-d7b7-4175-9575-adf27ab507f1" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 03 PM" src="https://github.com/user-attachments/assets/ef952e0b-0ae8-4f4b-9002-059c8d09be31" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 12 PM" src="https://github.com/user-attachments/assets/6a7575e1-bca8-450b-8d51-cd17bee0eee8" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 21 PM" src="https://github.com/user-attachments/assets/d76e7035-89bd-4b07-a112-6e8e886f56b2" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 16 33 PM" src="https://github.com/user-attachments/assets/6e074f47-d65b-4de9-81e8-188281fd318b" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 22 36 PM" src="https://github.com/user-attachments/assets/f70cb0dd-81e6-489f-b4aa-caed06a43b7f" />
+<img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 22 51 PM" src="https://github.com/user-attachments/assets/48466d6f-1d5a-4159-93b4-b8e18104812b" />
 <p align="center">
   <img src="assets/homepage.png" alt="LogiQ AI Screenshot" width="800"/>
 </p>
