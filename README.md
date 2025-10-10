@@ -5,7 +5,7 @@
 [![CI](https://github.com/YOUR_ORG/LOGIQ_AI/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_ORG/LOGIQ_AI/actions)
 
 > LogiQ AI — your smart assistant for X, Y, Z. Built with speed, privacy, and delightful UX in mind.
-[![LogiQ AI] Screenshots]
+## LogiQ AI ScreenShots!
 <img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 11 46 PM" src="https://github.com/user-attachments/assets/58c7a522-c1bf-441a-96ae-0e783c9f1bbe" />
 <img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 35 PM" src="https://github.com/user-attachments/assets/b394b19f-85f8-4e7b-9fba-4d52b0ea9c55" />
 <img width="1470" height="799" alt="Screenshot 2025-10-09 at 10 12 38 PM" src="https://github.com/user-attachments/assets/d31bd925-05a2-4687-97f4-6841abdcac65" />
