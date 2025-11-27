@@ -8,7 +8,8 @@
 
 ## LogiQ AI ScreenShots!
 
-  <img src="assets/homepage.png" alt="LogiQ AI Screenshot" width="800"/>
+  <img width="1470" height="799" alt="Screenshot 2025-11-26 at 11 31 33 AM" src="https://github.com/user-attachments/assets/db190857-666e-456c-b102-eed1746b6f21" />
+  <img width="1470" height="799" alt="Screenshot 2025-11-26 at 11 31 25 AM" src="https://github.com/user-attachments/assets/57f91fe8-83be-4b91-bc27-e9110d988cc5" />
   <img width="1470" height="799" alt="Screenshot 2025-11-26 at 11 27 20 AM" src="https://github.com/user-attachments/assets/8ecc00f9-392d-4e09-8830-f2d31724ca73" />
   <img width="1470" height="799" alt="Screenshot 2025-11-26 at 11 30 04 AM" src="https://github.com/user-attachments/assets/80967b6c-8188-4c64-8ecd-c9c58c26b14a" />
   <img width="1470" height="799" alt="Screenshot 2025-11-26 at 11 27 35 AM" src="https://github.com/user-attachments/assets/ba1c599a-ad9e-4530-9d2a-f59c5018fddb" />
